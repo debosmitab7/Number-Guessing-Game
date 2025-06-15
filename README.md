@@ -27,5 +27,5 @@ A simple terminal-based game where the user tries to guess a randomly generated 
 ### Using g++
 
 ```bash
-g++ guess_number.cpp -o guess_game
-./guess_game
+g++ main.cpp -o main
+./main
